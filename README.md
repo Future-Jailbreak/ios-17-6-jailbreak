@@ -18,7 +18,7 @@ Note: This tool is only for A8 to A11 devices (older iPhones and iPads).<br>
 
 ## 🌟 Jailbreak Tools That Don’t Require a Computer
 
-### 1. Redensa for iOS 17.6:
+### 1. `Redensa for iOS 17.6`:
 
 <div align="center">
 
@@ -30,7 +30,7 @@ Note: This tool is only for A8 to A11 devices (older iPhones and iPads).<br>
 
 Redensa is the first terminal-based Jailbreak app installer for iOS 17.6, compatible with all iPhone and iPad models. With Redensa, you can do more than just install Jailbreak apps. You can also change default iOS settings, install third-party apps and themes, and even Jailbreak web tools like ChatGPT.
 
-### 2. Sileem Repo Extractor for iOS 17.6:
+### 2. `Sileem Repo Extractor for iOS 17.6`:
 
 Sileem is a tool that lets you install third-party apps on iPhones and iPads running up to iOS 17.6 and the <a href="https://github.com/Future-Jailbreak/iOS18">iOS 18 beta</a>. It works by extracting repositories to get these apps onto your device, acting as an online Jailbreak solution.
 
@@ -44,7 +44,7 @@ Sileem first came out for iOS 16 and has been updated for every new iOS version.
 
 </div>
 
-### 3. Unc0ver Black Edition for iOS 17.6:
+### 3. `Unc0ver Black Edition for iOS 17.6`:
 
 Unc0ver Black edition serves as an alternative to the Unc0ver semi-tethered jailbreak tool. While Unc0ver semi-tethered jailbreak supports iOS versions from iOS 11 to iOS 14.8, Unc0ver Black edition is latest online jailbreak tool for iOS 16 to iOS 17.4.1, iOS 17.5 to iOS 17.6, and iOS 18 jailbreaks. It's also fully compatible with the latest iPhone models, including iPhone 15 devices.
 
@@ -56,7 +56,7 @@ Unc0ver Black edition serves as an alternative to the Unc0ver semi-tethered jail
 
 </div>
 
-### 4. Checkra1n Mirror for iOS 17.6:
+### 4. `Checkra1n Mirror for iOS 17.6`:
 
 Checkrain Mirror has been introduced as a fresh jailbreak solution for iOS 17, currently supporting iOS 17.6. This method employs a unique approach to install Cydia on your device. First, you generate a Checkrain Mirror code using the CodeGen application, which then installs a lite version of Cydia.
 
@@ -68,7 +68,7 @@ Checkrain Mirror has been introduced as a fresh jailbreak solution for iOS 17, c
 
 </div>
 
-### 4. Palera1n Virtual Terminal Jailbreak for iOS 17.6:
+### 5. `Palera1n Virtual Terminal Jailbreak for iOS 17.6`:
 
 Palera1n virtual terminal jailbreak represents an best online solution for the newest iOS devices. This cutting-edge method utilizes terminal processing to update modified IPSW keys. It supports iOS versions ranging from iOS 16 to iOS 16.7.8, iOS 17 to iOS 17.6, as well as the iOS 18 beta.
 
