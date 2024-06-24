@@ -20,6 +20,8 @@ Note: This tool is only for A8 to A11 devices (older iPhones and iPads).<br>
 
 ### 1. Redensa for iOS 17.6:
 
+![image](https://github.com/Future-Jailbreak/ios-17-6-jailbreak/assets/172568410/6ad347aa-ac2b-4bd6-b085-a09e8c6743b0)
+
 Redensa is the first terminal-based Jailbreak app installer for iOS 17.6, compatible with all iPhone and iPad models. With Redensa, you can do more than just install Jailbreak apps. You can also change default iOS settings, install third-party apps and themes, and even Jailbreak web tools like ChatGPT.
 
 ### 2. Sileem Repo Extractor for iOS 17.6:
