@@ -24,7 +24,7 @@ Note: This tool is only for A8 to A11 devices (older iPhones and iPads).<br>
 
 ![image](https://github.com/Future-Jailbreak/ios-17-6-jailbreak/assets/172568410/6ad347aa-ac2b-4bd6-b085-a09e8c6743b0)
 
-📥 <a href="https://xookz.com/redansa/#redensa-btn">Install Redensa iTerminal Jailbreak</a> 📥
+📥 <a href="https://xookz.com/redansa/#redensa-btn">Install Redensa</a> 📥
 
 </div>
 
@@ -40,7 +40,7 @@ Sileem first came out for iOS 16 and has been updated for every new iOS version.
 
 ![image](https://github.com/Future-Jailbreak/ios-17-6-jailbreak/assets/172568410/487ee748-644c-4346-8529-44326165e245)
 
-📥 <a href="https://xookz.com/redansa/#redensa-btn">Install Redensa iTerminal Jailbreak</a> 📥
+📥 <a href="https://xookz.com/redansa/#redensa-btn">Install Sileem</a> 📥
 
 </div>
 
@@ -52,7 +52,7 @@ Unc0ver Black edition serves as an alternative to the Unc0ver semi-tethered jail
 
 ![image](https://github.com/Future-Jailbreak/ios-17-6-jailbreak/assets/172568410/993ecfdb-56d4-458b-aba8-feda452e1274)
 
-📥 <a href="https://xookz.com/redansa/#redensa-btn">Install Redensa iTerminal Jailbreak</a> 📥
+📥 <a href="https://xookz.com/uncover-black-edition/#btn">Install Unc0ver Black Edition</a> 📥
 
 </div>
 
@@ -64,7 +64,7 @@ Checkrain Mirror has been introduced as a fresh jailbreak solution for iOS 17, c
 
 ![image](https://github.com/Future-Jailbreak/ios-17-6-jailbreak/assets/172568410/ec52df1d-be35-41ea-a6a6-84ae2fea9971)
 
-📥 <a href="https://xookz.com/redansa/#redensa-btn">Install Redensa iTerminal Jailbreak</a> 📥
+📥 <a href="https://pangu8.com/checkrain-mirror-guide/">Install Checkra1n Mirror</a> 📥
 
 </div>
 
@@ -76,7 +76,7 @@ Palera1n virtual terminal jailbreak represents an best online solution for the n
 
 ![image](https://github.com/Future-Jailbreak/ios-17-6-jailbreak/assets/172568410/4c03dded-9035-4a10-b8b2-255b3878d678)
 
-📥 <a href="https://xookz.com/redansa/#redensa-btn">Install Redensa iTerminal Jailbreak</a> 📥
+📥 <a href="https://xookz.com/palerain-jailbreak/#palera1nvirtual">Install Palera1n Virtual Terminal Jailbreak</a> 📥
 
 </div>
 
@@ -101,6 +101,8 @@ Yes, but understand the risks. Jailbreaking can void warranties and may cause is
 #### Why Jailbreak iOS 17.6?
 
 To personalize your phone and install apps not available on the App Store.
+
+<hr>
 
 ### Supported Devices for iOS 17 - iOS 17.6
 
