@@ -1,4 +1,8 @@
+<div align="center">
+
 # iOS 17.6 Jailbreak: Top 5 online methods
+
+</div>
 
 
 Here's a guide on the latest jailbreak tools and methods for iOS 17 through iOS 17.6 on iPhones and iPads. Learn how to install jailbreak apps, tweaks, and themes using the best online methods.
