@@ -40,7 +40,7 @@ Sileem first came out for iOS 16 and has been updated for every new iOS version.
 
 ![image](https://github.com/Future-Jailbreak/ios-17-6-jailbreak/assets/172568410/487ee748-644c-4346-8529-44326165e245)
 
-📥 <a href="https://xookz.com/redansa/#redensa-btn">Install Sileem</a> 📥
+📥 <a href="https://xookz.com/sileem/#btn">Install Sileem</a> 📥
 
 </div>
 
