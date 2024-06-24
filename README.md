@@ -13,7 +13,7 @@ Here's a guide on the latest jailbreak tools and methods for iOS 17 through iOS 
 
 - Palera1n and its newer version Palera1n-C are popular tools you can use to jailbreak iOS 17.6.
 - Palera1n-C is rewritten in C, making it smoother and better.
-Note: This tool is only for A8 to A11 devices (older iPhones and iPads).<br>
+Note: This tool is only for A8 to A11 devices (older iPhones and iPads).<br><br>
 
 
 ## 🌟 Jailbreak Tools That Don’t Require a Computer
