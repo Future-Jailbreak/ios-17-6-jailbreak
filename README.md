@@ -3,16 +3,16 @@
 
 Here's a guide on the latest jailbreak tools and methods for iOS 17 through iOS 17.6 on iPhones and iPads. Learn how to install jailbreak apps, tweaks, and themes using the best online methods.
 
-Jailbreak Tools That Require a Computer
+##  🌟 Jailbreak Tools That Require a Computer
 
-## 1. Palera1n Jailbreak for iOS 17.6:
+### 1. Palera1n Jailbreak for iOS 17.6:
 
 - Palera1n and its newer version Palera1n-C are popular tools you can use to jailbreak iOS 17.6.
 - Palera1n-C is rewritten in C, making it smoother and better.
 Note: This tool is only for A8 to A11 devices (older iPhones and iPads).
 
 
-## Jailbreak Tools That Don’t Require a Computer
+## 🌟 Jailbreak Tools That Don’t Require a Computer
 
 ### 1. Redensa for iOS 17.6:
 
