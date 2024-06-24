@@ -9,7 +9,7 @@ Here's a guide on the latest jailbreak tools and methods for iOS 17 through iOS 
 
 ##  🌟 Jailbreak Tools That Require a Computer
 
-### 1. Palera1n Jailbreak for iOS 17.6:
+### 1. `Palera1n Jailbreak for iOS 17.6`:
 
 - Palera1n and its newer version Palera1n-C are popular tools you can use to jailbreak iOS 17.6.
 - Palera1n-C is rewritten in C, making it smoother and better.
